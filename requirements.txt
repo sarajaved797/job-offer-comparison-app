@@ -1,5 +1,9 @@
 
 # Fixes for numpy/pandas version mismatch
 pandas==1.4.2
-numpy>=1.24.0
+numpy==1.22.4
 streamlit==1.11.0
+matplotlib
+scikit-learn
+
+
